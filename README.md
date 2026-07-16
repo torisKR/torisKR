@@ -41,8 +41,9 @@
 
 > 제품 개발, 오픈소스 도구, 개발 생산성을 중심으로 만들고 있습니다.
 
-| Project | What it does | Stars |
+| Project | What it does | Stars / Live |
 |---|---|:-:|
+| [**MemeCatch ↗**](https://memecatch.vercel.app) | 유행하는 밈·유행어의 뜻과 유래, 사용 안전도와 생명주기를 빠르게 확인하는 한국 밈 트렌드 사전 | [![Live Site](https://img.shields.io/badge/Live_Site-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://memecatch.vercel.app) |
 | [**TraceDesk**](https://github.com/toris-dev/TraceDesk) | PC 활동을 로컬 SQLite에 기록하고 검색·분석·내보내기를 제공하는 Tauri 기반 개인 활동 저널 | ![](https://img.shields.io/github/stars/toris-dev/TraceDesk?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
 | [**TorisUI Kit**](https://github.com/toris-dev/torisui-kit) | 접근성과 개발자 경험을 고려한 모던 React UI 컴포넌트 라이브러리 `@toris-dev/ui` | ![](https://img.shields.io/github/stars/toris-dev/torisui-kit?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
 | [**asyncraft**](https://github.com/toris-dev/asyncraft) | retry·timeout·circuit breaker·동시성 제한 등을 제공하는 zero-dependency TypeScript 비동기 유틸리티 | ![](https://img.shields.io/github/stars/toris-dev/asyncraft?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
