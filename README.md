@@ -1,37 +1,77 @@
-# ✨풀스택 개발을 지향하는 Toris 입니다.✨
+<div align="center">
 
 <a href="https://toris-blog.vercel.app">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</br>
+  <img src="welcome.svg" width="100%" alt="Toris developer welcome banner" />
+</a>
+
+# Hi, I'm **Toris** 👋
+
+*사용자 경험과 유지보수성을 함께 고민하며, 프론트엔드부터 백엔드·인프라까지 연결하는 풀스택 개발자를 지향합니다.*
+
+[![GitHub followers](https://img.shields.io/github/followers/toris-dev?style=flat-square&logo=github&label=followers&color=teal)](https://github.com/toris-dev)
+[![Profile views](https://komarev.com/ghpvc/?username=toris-dev&style=flat-square&color=teal)](https://github.com/toris-dev)
+[![Blog](https://img.shields.io/badge/Blog-toris--blog.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://toris-blog.vercel.app)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/toris-dev/svg?theme=light&sort=cost&template=orbit&color=teal&tokens=compact&cost=compact)](https://tokscale.ai/u/toris-dev)
+
+</div>
+
+---
+
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+> 제품 개발, 오픈소스 도구, 개발 생산성을 중심으로 만들고 있습니다.
+
+| Project | What it does | Stars |
+|---|---|:-:|
+| [**TraceDesk**](https://github.com/toris-dev/TraceDesk) | PC 활동을 로컬 SQLite에 기록하고 검색·분석·내보내기를 제공하는 Tauri 기반 개인 활동 저널 | ![](https://img.shields.io/github/stars/toris-dev/TraceDesk?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
+| [**TorisUI Kit**](https://github.com/toris-dev/torisui-kit) | 접근성과 개발자 경험을 고려한 모던 React UI 컴포넌트 라이브러리 `@toris-dev/ui` | ![](https://img.shields.io/github/stars/toris-dev/torisui-kit?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
+| [**asyncraft**](https://github.com/toris-dev/asyncraft) | retry·timeout·circuit breaker·동시성 제한 등을 제공하는 zero-dependency TypeScript 비동기 유틸리티 | ![](https://img.shields.io/github/stars/toris-dev/asyncraft?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
+| [**Product Growth Skills**](https://github.com/toris-dev/product-growth-skills) | 앱스토어 성장, SEO/GEO, Flutter·Expo 성능과 디자인을 위한 오픈소스 에이전트 스킬 모음 | ![](https://img.shields.io/github/stars/toris-dev/product-growth-skills?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
+
+---
+
+### 📚 Learning & Playground
+
+| Repository | Focus |
+|---|---|
+| [**TIL**](https://github.com/toris-dev/TIL) | 개발 과정에서 배운 내용을 꾸준히 기록합니다. |
+| [**Algorithm Problem**](https://github.com/toris-dev/Algorithm_Problem) | 알고리즘 문제 풀이와 사고 과정을 정리합니다. |
+| [**DevOps Code Collection**](https://github.com/toris-dev/DevOps_Code_Collection) | 배포와 운영 자동화에 필요한 코드와 학습 내용을 모읍니다. |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=toris-dev&hide_border=true&theme=default" alt="Toris GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toris-dev&theme=minimal&hide_border=true&area=true" alt="Toris GitHub activity graph" />
+</p>
+
+---
+
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=toris-dev&color=red" alt="Profile views" />
-    <br />
-    <a href="https://tokscale.ai/u/toris-dev">
-        <img src="https://tokscale.ai/api/embed/toris-dev/svg?tokens=compact&cost=compact" alt="Tokscale Stats" />
-    </a>
+  <sub>작게 시작하고, 꾸준히 개선하며, 오래 유지할 수 있는 제품을 만듭니다.</sub>
 </div>
-
-
-
-<h2>Tech Stacks</h2>
-<div style="display:flex; flex-direction:row; gap:2rem">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
-</div>
-
-<img width="1536" height="1024" alt="ChatGPT Image 2026년 7월 10일 오전 12_37_12" src="https://github.com/user-attachments/assets/3637a918-3091-4285-aea6-0503c708e300" />
-
-</br>
