@@ -5,7 +5,11 @@
   </a>
 </br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=toris-dev&color=red" />
+    <img src="https://komarev.com/ghpvc/?username=toris-dev&color=red" alt="Profile views" />
+    <br />
+    <a href="https://tokscale.ai/u/toris-dev">
+        <img src="https://tokscale.ai/api/embed/toris-dev/svg?tokens=compact&cost=compact" alt="Tokscale Stats" />
+    </a>
 </div>
 
 
@@ -31,4 +35,3 @@
 <img width="1536" height="1024" alt="ChatGPT Image 2026년 7월 10일 오전 12_37_12" src="https://github.com/user-attachments/assets/3637a918-3091-4285-aea6-0503c708e300" />
 
 </br>
-
