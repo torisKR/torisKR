@@ -50,16 +50,6 @@
 
 ---
 
-### 📚 Learning & Playground
-
-| Repository | Focus |
-|---|---|
-| [**TIL**](https://github.com/toris-dev/TIL) | 개발 과정에서 배운 내용을 꾸준히 기록합니다. |
-| [**Algorithm Problem**](https://github.com/toris-dev/Algorithm_Problem) | 알고리즘 문제 풀이와 사고 과정을 정리합니다. |
-| [**DevOps Code Collection**](https://github.com/toris-dev/DevOps_Code_Collection) | 배포와 운영 자동화에 필요한 코드와 학습 내용을 모읍니다. |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
