@@ -49,17 +49,6 @@
 | [**asyncraft**](https://github.com/toris-dev/asyncraft) | retry·timeout·circuit breaker·동시성 제한 등을 제공하는 zero-dependency TypeScript 비동기 유틸리티 | ![](https://img.shields.io/github/stars/toris-dev/asyncraft?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
 | [**Product Growth Skills**](https://github.com/toris-dev/product-growth-skills) | 앱스토어 성장, SEO/GEO, Flutter·Expo 성능과 디자인을 위한 오픈소스 에이전트 스킬 모음 | ![](https://img.shields.io/github/stars/toris-dev/product-growth-skills?style=flat-square&logo=github&label=%20&color=teal&cacheSeconds=86400) |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=toris-dev&hide_border=true&theme=default" alt="Toris GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toris-dev&theme=minimal&hide_border=true&area=true" alt="Toris GitHub activity graph" />
-</p>
 
 ---
 
