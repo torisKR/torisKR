@@ -12,7 +12,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=toris-dev&style=flat-square&color=teal)](https://github.com/toris-dev)
 [![Blog](https://img.shields.io/badge/Blog-toris--blog.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://toris-blog.vercel.app)
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/torisKR/svg?compact=1&tokens=compact&cost=compact)](https://tokscale.ai/u/torisKR)
+[![Tokscale Stats](https://tokscale.ai/api/embed/torisKR/svg?theme=light&template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/torisKR)
 
 </div>
 
