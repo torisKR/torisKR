@@ -83,6 +83,14 @@ Understand the problem → Build a focused MVP → Test & verify → Ship → Im
 사용자가 겪는 문제를 먼저 정의하고, 실제로 작동하는 작은 제품부터 만듭니다.  
 자동화의 속도만큼 **검증 가능성, 비용, 보안, 장기 유지보수성**을 중요하게 생각합니다.
 
+## AI Coding Stats
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/torisKR/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/torisKR)
+
+</div>
+
 ## Connect
 
 - 🌐 **Portfolio & Products:** [toris.kr](https://toris.kr/)
